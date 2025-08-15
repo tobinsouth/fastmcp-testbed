@@ -1,0 +1,13 @@
+.git
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv
+venv/
+.DS_Store
+.vscode/
+.cursor/
